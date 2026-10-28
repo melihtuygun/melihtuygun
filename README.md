@@ -34,6 +34,16 @@ Kurumsal web uygulamaları, CRM sistemleri, e-ticaret altyapıları, dijital yay
 
 **[OXO Yazılım — Proje Portföyü / Project Showcase](./PORTFOLIO.md)**
 
+### OXO Yazılım · Resmî Tanıtım Kataloğu
+
+| Katalog | İçerik |
+|---|---|
+| **[Yazılım Paketleri & Demolar](./PACKAGES.md)** | 12 ürün, kapsam, yayımlanmış fiyat bilgisi ve demo bağlantıları |
+| **[Projeler & Referanslar](./PROJECTS.md)** | Pusula Adası, şirket sitesindeki proje başlıkları, teknoloji alanları |
+| **[Kurumsal Portföy](./PORTFOLIO.md)** | OXO Yazılım'ın çalışma alanları ve gizlilik yaklaşımı |
+
+> GitHub üzerinde **tanıtım içerikleri** paylaşılır. Kaynak kodları, özel dosyalar, şifreler ve müşteri verileri yayımlanmaz.
+
 Tamamlanan ve geliştirilmekte olan projelerimizin seçilmiş tanıtımlarını burada ve OXO Yazılım'ın kurumsal portföyünde paylaşmayı planlıyoruz. Her projenin tanıtımı, yalnızca yayımlanması onaylanan bilgilerle hazırlanacaktır.
 
 > **Gizlilik ve fikrî mülkiyet:** Bu profil ve proje tanıtımları kaynak kodu paylaşımı anlamına gelmez. Özel kaynak kodları, müşteri verileri, proje dosyaları, şifreler ve erişim anahtarları yayımlanmaz.
