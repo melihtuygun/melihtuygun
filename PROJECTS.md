@@ -1,32 +1,19 @@
 # OXO Yazılım — Projeler / Projects
 
-**Founder & Technical Lead:** Melih ŞANLI  
-[GitHub Profili](./README.md) · [Ürün Paketleri](./PRODUCTS.md) · [Resmî Projeler](https://oxoyazilim.com/projeler)
+**Founder & Technical Lead: Melih ŞANLI**
 
-## Proje vitrini / Project showcase
+[Ana Profil](./README.md) · [Yazılım Paketleri](./PRODUCTS.md) · [OXO Yazılım](https://oxoyazilim.com)
 
-| Proje / Project | Kategori / Category | Türkçe & English |
-|---|---|---|
-| Pusula Adası | Mobil oyun / Mobile game | [Tanıtım / Overview](./projects/pusula-adasi.md) |
-| Anadolu Gıda | E-Ticaret / E-Commerce | [Tanıtım / Overview](./projects/anadolu-gida.md) |
-| TechFlow | CRM | [Tanıtım / Overview](./projects/techflow.md) |
-| İstanbul Lojistik | Filo / Fleet | [Tanıtım / Overview](./projects/istanbul-lojistik.md) |
-| Keyif Restoran | Restoran / Hospitality | [Tanıtım / Overview](./projects/keyif-restoran.md) |
-| DigiMarket | B2B | [Tanıtım / Overview](./projects/digimarket.md) |
-| HealthTrack | Sağlık / Health | [Tanıtım / Overview](./projects/healthtrack.md) |
-| EduPlatform | E-Öğrenme / E-Learning | [Tanıtım / Overview](./projects/eduplatform.md) |
-| GlobalShip | Lojistik / Logistics | [Tanıtım / Overview](./projects/globalship.md) |
+## Doğrulanmış proje / Verified project
 
-**Pusula Adası** şirketin resmî sitesinde *yayına hazırlanıyor* olarak belirtiliyor. Diğer 8 başlık resmî proje portföyünde listeleniyor. 
+### [Pusula Adası](./projects/pusula-adasi.md)
 
-Bu sayfalarda ürün kapsamları ve web sitesinin yayımladığı teknoloji etiketleri özetlenir. Müşteri başarısı, ölçülen performans veya ticari sonuç rakamları bağımsız doğrulama olmadan yeniden yayımlanmaz.
+OXO Yazılım'ın mobil oyun çalışması. / An OXO Yazılım mobile game project.
 
-## English
+**Not:** Proje portföyünde yalnızca sahipliği doğrulanmış çalışmalar listelenir. Daha önce yanlışlıkla eklenen üçüncü taraf proje isimleri portföy listesinden kaldırılmıştır.
 
-Explore nine publicly described project entries on the OXO Yazılım website, including the upcoming Pusula Adası Android game. The linked pages present bilingual project summaries and published technology stacks. Source code, client records and confidential assets are not included.
+**Note:** Only ownership-confirmed work is listed. Previously misattributed third-party entries have been removed from this portfolio index.
 
-## Görseller / Screenshots
+---
 
-Gerçek ekran görüntüleri doğrulanmış dosya olarak henüz yüklenmedi. Proje sayfaları resmî siteye bağlantı verir; sahte veya stok arayüz görselleri kullanılmaz.
-
-**© OXO Yazılım · Melih ŞANLI**
+© OXO Yazılım · Melih ŞANLI
