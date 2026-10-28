@@ -1,41 +1,32 @@
-# OXO Yazılım | Proje ve Referans Vitrini
+# OXO Yazılım — Projeler / Projects
 
 **Founder & Technical Lead:** Melih ŞANLI  
-**Resmî kaynak:** https://oxoyazilim.com/projeler
+[GitHub Profili](./README.md) · [Ürün Paketleri](./PRODUCTS.md) · [Resmî Projeler](https://oxoyazilim.com/projeler)
 
-Bu belge, OXO Yazılım sitesinde kamuya açık olarak listelenen proje başlıklarının tanıtım envanteridir. **Proje sonuçları, müşteri kimlikleri ve metrikler bağımsız olarak doğrulanmamıştır**; bu yüzden performans iddiaları tekrarlanmamıştır.
+## Proje vitrini / Project showcase
 
-## OXO markalı proje
-
-### Pusula Adası — Android Mobil Oyun
-Godot 4 ve GDScript ile geliştirilen platform oyunu; yakın dövüş, ada muhafızı boss, kariyer/özellik ağacı, görevler, keşif haritası ve otomatik kayıt. Resmî proje sayfasında **yayına hazırlanıyor** olarak işaretlenmiştir.
-
-- **Teknolojiler (şirket sitesinde belirtilen):** Godot 4 · GDScript · Android ARM64
-- **Proje sayfası:** https://oxoyazilim.com/projeler/pusula-adasi
-- **Demo:** Doğrulanmış halka açık indirme/demo bağlantısı bulunamadı
-
-## Resmî proje sayfasında listelenen referans başlıkları
-
-| Proje | Yayınlanan kategori | Sitede belirtilen teknoloji |
+| Proje / Project | Kategori / Category | Türkçe & English |
 |---|---|---|
-| Anadolu Gıda — E-Ticaret Platformu | E-Ticaret / B2B | Next.js · Supabase · İyzico |
-| TechFlow — Kurumsal CRM Sistemi | CRM ve satış yönetimi | React · Node.js · PostgreSQL |
-| İstanbul Lojistik — Filo Yönetim Sistemi | GPS / filo operasyonları | React Native · Node.js · GPS API |
-| Keyif Restoran — Dijital Yönetim Platformu | Restoran sipariş / rezervasyon | Next.js · React Native · Stripe |
-| DigiMarket — B2B Tedarik Platformu | Tedarik ve alıcı yönetimi | Next.js · Supabase |
-| HealthTrack — Sağlık Takip Uygulaması | Mobil sağlık takibi | React Native · Node.js |
-| EduPlatform — Kurumsal E-Öğrenme | Eğitim yönetim sistemi | Next.js · Supabase |
-| GlobalShip — Uluslararası Nakliye | Lojistik / gümrük süreçleri | React · Python · PostgreSQL |
+| Pusula Adası | Mobil oyun / Mobile game | [Tanıtım / Overview](./projects/pusula-adasi.md) |
+| Anadolu Gıda | E-Ticaret / E-Commerce | [Tanıtım / Overview](./projects/anadolu-gida.md) |
+| TechFlow | CRM | [Tanıtım / Overview](./projects/techflow.md) |
+| İstanbul Lojistik | Filo / Fleet | [Tanıtım / Overview](./projects/istanbul-lojistik.md) |
+| Keyif Restoran | Restoran / Hospitality | [Tanıtım / Overview](./projects/keyif-restoran.md) |
+| DigiMarket | B2B | [Tanıtım / Overview](./projects/digimarket.md) |
+| HealthTrack | Sağlık / Health | [Tanıtım / Overview](./projects/healthtrack.md) |
+| EduPlatform | E-Öğrenme / E-Learning | [Tanıtım / Overview](./projects/eduplatform.md) |
+| GlobalShip | Lojistik / Logistics | [Tanıtım / Overview](./projects/globalship.md) |
 
-**Kaynak:** https://oxoyazilim.com/projeler
+**Pusula Adası** şirketin resmî sitesinde *yayına hazırlanıyor* olarak belirtiliyor. Diğer 8 başlık resmî proje portföyünde listeleniyor. 
 
-> Bu listedeki müşteri adları ve teknoloji etiketleri şirket web sayfasında görünmektedir. Portföyde bağımsız müşteri onayı olmadan ekran görüntüsü, sözleşme, dahili bağlantı veya ticari veri yayımlanmaz.
+Bu sayfalarda ürün kapsamları ve web sitesinin yayımladığı teknoloji etiketleri özetlenir. Müşteri başarısı, ölçülen performans veya ticari sonuç rakamları bağımsız doğrulama olmadan yeniden yayımlanmaz.
 
-## Yazılım hizmetleri
-Web tasarımı ve geliştirme, mobil uygulamalar, e-ticaret, SEO, kurumsal ERP/CRM, sosyal medya yönetimi, özel yazılım, dijital reklamcılık ve OXO Haber platformu.
+## English
 
-**Hizmetler:** https://oxoyazilim.com/hizmetler
+Explore nine publicly described project entries on the OXO Yazılım website, including the upcoming Pusula Adası Android game. The linked pages present bilingual project summaries and published technology stacks. Source code, client records and confidential assets are not included.
 
----
-© OXO Yazılım · **Melih ŞANLI**  
-**Gizlilik:** Bu envanter bir yazılım kaynağı deposu değildir.
+## Görseller / Screenshots
+
+Gerçek ekran görüntüleri doğrulanmış dosya olarak henüz yüklenmedi. Proje sayfaları resmî siteye bağlantı verir; sahte veya stok arayüz görselleri kullanılmaz.
+
+**© OXO Yazılım · Melih ŞANLI**
