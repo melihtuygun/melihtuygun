@@ -32,6 +32,8 @@ Kurumsal web uygulamaları, CRM sistemleri, e-ticaret altyapıları, dijital yay
 
 ### Projelerimiz
 
+**[OXO Yazılım — Proje Portföyü / Project Showcase](./PORTFOLIO.md)**
+
 Tamamlanan ve geliştirilmekte olan projelerimizin seçilmiş tanıtımlarını burada ve OXO Yazılım'ın kurumsal portföyünde paylaşmayı planlıyoruz. Her projenin tanıtımı, yalnızca yayımlanması onaylanan bilgilerle hazırlanacaktır.
 
 > **Gizlilik ve fikrî mülkiyet:** Bu profil ve proje tanıtımları kaynak kodu paylaşımı anlamına gelmez. Özel kaynak kodları, müşteri verileri, proje dosyaları, şifreler ve erişim anahtarları yayımlanmaz.
