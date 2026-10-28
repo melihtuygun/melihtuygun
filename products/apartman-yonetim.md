@@ -15,7 +15,7 @@
 
 **Ürün kategorisi:** Site yönetimi / Property management  
 **Resmî sitede görüntülenen başlangıç fiyatı:** 35.000 TL + KDV  
-**Resmî ürün sayfası:** [Ürün detayları](https://oxoyazilim.com/paketler/site-apartman)  
+**Resmî ürün sayfası:** [Ürün detayları](https://oxoyazilim.com/paketler/apartman-yonetim-yazilimi)  
 **Canlı demo:** Şu anda doğrulanmış bağlantı bulunmuyor.
 
 ### Ürün tanıtımı
@@ -31,7 +31,7 @@
 
 ### Ürün ekran görüntüleri
 
-[**Resmî ürün sayfasındaki ekran görüntüsünü incele**](https://oxoyazilim.com/paketler/site-apartman)
+[**Resmî ürün sayfasındaki ekran görüntüsünü incele**](https://oxoyazilim.com/paketler/apartman-yonetim-yazilimi)
 
 > Gerçek ürün ekran görüntüsü dosyası henüz bu depoya aktarılmadı. Bu nedenle yer tutucu görseller veya kurgusal arayüz görüntüleri kullanılmıyor. Yayın izni verilmiş gerçek görüntüler eklendiğinde burada gösterilecektir.
 
@@ -45,7 +45,7 @@ Diğer paketlerle alan, fiyat ve demo karşılaştırması için [karşılaştı
 
 **Category:** Site yönetimi / Property management  
 **Listed starting price:** 35.000 TL + KDV (VAT excluded)  
-**Official product page:** [Product details](https://oxoyazilim.com/paketler/site-apartman)  
+**Official product page:** [Product details](https://oxoyazilim.com/paketler/apartman-yonetim-yazilimi)  
 **Live demo:** No verified public demo link is listed.
 
 ### Overview
@@ -61,7 +61,7 @@ Diğer paketlerle alan, fiyat ve demo karşılaştırması için [karşılaştı
 
 ### Screenshots
 
-[**View the official product page for published screenshots**](https://oxoyazilim.com/paketler/site-apartman)
+[**View the official product page for published screenshots**](https://oxoyazilim.com/paketler/apartman-yonetim-yazilimi)
 
 > No unverified, fabricated, or generic screenshots are presented as images of this product. Approved genuine product screenshots may be added later.
 
