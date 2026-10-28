@@ -15,7 +15,7 @@
 
 **Ürün kategorisi:** Commerce  
 **Resmî sitede görüntülenen başlangıç fiyatı:** 30.000 TL + KDV  
-**Resmî ürün sayfası:** [Ürün detayları](https://oxoyazilim.com/paketler/e-ticaret-gelistirme)  
+**Resmî ürün sayfası:** [Ürün detayları](https://oxoyazilim.com/paketler/e-ticaret)  
 **Canlı demo:** [Demoyu aç](https://eticaret.oxoyazilim.com/temalar)
 
 ### Ürün tanıtımı
@@ -31,7 +31,7 @@
 
 ### Ürün ekran görüntüleri
 
-[**Resmî ürün sayfasındaki ekran görüntüsünü incele**](https://oxoyazilim.com/paketler/e-ticaret-gelistirme)
+[**Resmî ürün sayfasındaki ekran görüntüsünü incele**](https://oxoyazilim.com/paketler/e-ticaret)
 
 > Gerçek ürün ekran görüntüsü dosyası henüz bu depoya aktarılmadı. Bu nedenle yer tutucu görseller veya kurgusal arayüz görüntüleri kullanılmıyor. Yayın izni verilmiş gerçek görüntüler eklendiğinde burada gösterilecektir.
 
@@ -45,7 +45,7 @@ Diğer paketlerle alan, fiyat ve demo karşılaştırması için [karşılaştı
 
 **Category:** Commerce  
 **Listed starting price:** 30.000 TL + KDV (VAT excluded)  
-**Official product page:** [Product details](https://oxoyazilim.com/paketler/e-ticaret-gelistirme)  
+**Official product page:** [Product details](https://oxoyazilim.com/paketler/e-ticaret)  
 **Live demo:** [Open demo](https://eticaret.oxoyazilim.com/temalar)
 
 ### Overview
@@ -61,7 +61,7 @@ Diğer paketlerle alan, fiyat ve demo karşılaştırması için [karşılaştı
 
 ### Screenshots
 
-[**View the official product page for published screenshots**](https://oxoyazilim.com/paketler/e-ticaret-gelistirme)
+[**View the official product page for published screenshots**](https://oxoyazilim.com/paketler/e-ticaret)
 
 > No unverified, fabricated, or generic screenshots are presented as images of this product. Approved genuine product screenshots may be added later.
 
