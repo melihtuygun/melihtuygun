@@ -30,6 +30,19 @@
 - Teknik servis ve saha ekipleri
 - POS, müşteri portalı ve İK
 
+### Resmî ürün sayfasında açıklanan gelişmiş modüller
+
+- Teklif bağlantısıyla müşteri onayı ve faturaya dönüştürme
+- e-Fatura/e-Arşiv entegrasyonları: Paraşüt, Uyumsoft, QNB eFinans, Logo eLogo, Nilvera
+- Banka ekstresi eşleştirme, çek/senet, kâr-zarar, KDV özeti ve muhasebe çıktıları
+- Barkod, seri numarası, varyant ve çoklu depo yönetimi
+- Trendyol, Hepsiburada, n11, WooCommerce ve Shopify entegrasyonları
+- Mobil saha servisi: fotoğraf ve müşteri imzası
+- Satış hunisi, otomasyon kuralları, müşteri portalı, POS, İK ve şube bazlı yetkilendirme
+- Gece yedekleri, iki aşamalı doğrulama ve KVKK araçları
+
+**Ürün sayfasında belirtilen teslim süresi:** 3–7 iş günü. **Opsiyonel hosting:** 599 TL/ay.
+
 ### Ürün ekran görüntüleri
 
 [**Resmî ürün sayfasındaki ekran görüntüsünü incele**](https://oxoyazilim.com/paketler/oxo-crm)
