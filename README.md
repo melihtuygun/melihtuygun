@@ -38,7 +38,7 @@ Kurumsal web uygulamaları, CRM sistemleri, e-ticaret altyapıları, dijital yay
 
 | Katalog | İçerik |
 |---|---|
-| **[Yazılım Paketleri & Demolar](./PACKAGES.md)** | 12 ürün, kapsam, yayımlanmış fiyat bilgisi ve demo bağlantıları |
+| **[Ürün Vitrini / Product Showcase](./PRODUCTS.md)** | 12 iki dilli ürün tanıtımı, fiyat ve demo karşılaştırması |\n| **[Yazılım Paketleri & Demolar](./PACKAGES.md)** | 12 ürünün özet bilgileri ve demo bağlantıları |
 | **[Projeler & Referanslar](./PROJECTS.md)** | Pusula Adası, şirket sitesindeki proje başlıkları, teknoloji alanları |
 | **[Kurumsal Portföy](./PORTFOLIO.md)** | OXO Yazılım'ın çalışma alanları ve gizlilik yaklaşımı |
 
